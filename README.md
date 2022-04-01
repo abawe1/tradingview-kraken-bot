@@ -1,6 +1,6 @@
 # tradingview-webhooks
 
-AWS Lambda endpoint for executing Alpaca bracket orders. 
+AWS Lambda endpoint for executing Kraken orders. 
 
 ## Uses AWS Chalice Framework for Serverless Python:
 
